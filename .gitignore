@@ -1,0 +1,14 @@
+# Virtual mühit
+venv/
+.venv/
+
+# Python tərəfindən yaradılan keş faylları
+__pycache__/
+*.pyc
+
+# Gizli mühit dəyişənləri (Şifrələr, API açarları)
+.env
+
+# Sistem faylları (Məsələn, şəkildə görünən desktop.ini)
+desktop.ini
+.DS_Store
