@@ -20,7 +20,7 @@ CSV-API-EXTRACTION/
 ├── .gitignore              # Git tərəfindən izlənilməyəcək faylların siyahısı (venv, .env və s.)
 ├── docker-compose.yml      # Konteynerləşdirilmiş mühit konfiqurasiyası
 ├── requirements.txt        # Layihə üçün lazımi Python paketləri
-└── README.md               # Layihə barədə ümumi məlumat sənədi
+└── README.md               # Layihə barədə ümumi məlumat sənədi 
 
 
 ## 🛠️ Texnologiyalar və Kitabxanalar
