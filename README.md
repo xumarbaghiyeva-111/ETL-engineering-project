@@ -36,8 +36,8 @@ Docker & Docker Compose — Mühitin standartlaşdırılması üçün
 ## 🚀 Quraşdırma və İşə Salma
 
 # Repozitoriyanı klonlayın
-git clone [https://github.com/istifadeci_adiniz/csv-api-extraction.git](https://github.com/istifadeci_adiniz/csv-api-extraction.git)
-cd csv-api-extraction
+git clone [https://github.com/xumarbaghiyeva-111/ETL-engineering-project.git](https://github.com/xumarbaghiyeva-111/ETL-engineering-project.git)
+cd ETL-engineering-project
 
 # Virtual mühiti aktivləşdirin
 python -m venv venv
